@@ -32,3 +32,9 @@ Thumbs.db
 .env
 .env.local
 .env.*.local
+
+# Local runtime data
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+backend/*.log
